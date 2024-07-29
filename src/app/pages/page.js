@@ -1,12 +1,10 @@
-// pages/contact.js
-import Layout from '../layout';
 
 const Contact = () => {
   return (
-    <Layout>
+    <div>
       <h1>Contact</h1>
       <p>This is the contact page.</p>
-    </Layout>
+    </div>
   );
 };
 
